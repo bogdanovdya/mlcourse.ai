@@ -14,7 +14,7 @@ def main():
     os.system(run_command)
 
 if __name__ == '__main__':
-    main()
+    main() 
 
 
 
