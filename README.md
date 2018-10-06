@@ -21,8 +21,15 @@ This is the list of published articles on medium.com [:uk:](https://medium.com/o
 9. Time Series Analysis with Python, part 1 [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3) [:ru:](https://habrahabr.ru/company/ods/blog/327242/) [:cn:](https://www.jqr.com/article/000450). Predicting future with Facebook Prophet, part 2 [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-part-3-predicting-the-future-with-facebook-prophet-3f3af145cdc), Kaggle Kernels: [part1](https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python), [part2](https://www.kaggle.com/kashnitsky/topic-9-part-2-time-series-with-facebook-prophet)
 10. Gradient Boosting [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-10-gradient-boosting-c751538131ac) [:ru:](https://habrahabr.ru/company/ods/blog/327250/), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/topic-10-gradient-boosting)
 
+### Lectures
+Youtube [playlist](https://www.youtube.com/watch?v=DzXgyOcbZZk&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
+
+0. Introduction, [video](https://www.youtube.com/watch?v=DzXgyOcbZZk&feature=youtu.be), [slides](https://drive.google.com/open?id=13pBLPZmRQB3KPkd8-ji41r7qZvtrKo4c)
+
 ### Assignments
-Full assignments are announced each week in a new run of the course (October 1, 2018). Meanwhile, you can pratice with demo versions. Solutions to both demo and full versions will be discussed in the upcoming run of the course. 
+1. Exploratory data analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb). Deadline: **October 14, 20:59 CET**
+
+Demo assignments, just for practice, not to be accounted in rating
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
 2. Analyzing cardiovascular disease data, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment02_analyzing_cardiovascular_desease_data.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-2-analyzing-cardiovascular-data)
 3. Decision trees with a toy task and the UCI Adult dataset, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment03_decision_trees.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-3-decision-trees)
